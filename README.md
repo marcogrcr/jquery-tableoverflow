@@ -21,6 +21,7 @@ To remove a table from dynamic table content overflowing simply use:
 
 * For each column, the plugin sets a min width (the width of the **th** content) and a max width (the width of the largest **td** content).
 * After every resize of the browser window, the plugin resizes the columns of the table so that the cells overflow evently, and only when they've all given up all their whitespace.
+* If a cell text is truncated after the column resize, a tooltip is placed so that the text can be read if the mouse is hovered.
 
 **EXAMPLE**
 
