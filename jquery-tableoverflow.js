@@ -1,3 +1,12 @@
+/**
+* jquery-tableoverflow.js
+* https://github.com/marcogrcr/jquery-tableoverflow
+*
+* License of use:
+*
+* 1. You may use and modify this plugin as you see fit.
+* 2. Please credit the original author by preserving this header :)
+*/
 (function ($) {
     var
         $tables = $(),
